@@ -5,7 +5,7 @@
 	<artifactId>sekhar1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Simple crud app</name>
+	<name>Simple crudapp1</name>
 	<description>CRUD application demo</description>
 	<dependencies>
 		<dependency>
@@ -56,4 +56,4 @@
 	</build>
 
 </project>
-Nawaz crudapp
+
